@@ -14,7 +14,7 @@ struct ContentView: View {
                 .resizable(capInsets: EdgeInsets(top: 1.0, leading: 0.0, bottom: -4.0, trailing: 0.0), resizingMode: .stretch)
                 .aspectRatio(contentMode: .fit)
                 .ignoresSafeArea()
-
+//practicing git hub :)
                 
                 
                 
